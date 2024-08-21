@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: none;
+  box-sizing: border-box;
+
+  font-family: Arial, sans-serif;
+  font-size: 62.5%;
+  font-weight: normal;
+
+  list-style: none;
+  text-decoration: none;
+
+  overflow-x: hidden;
+}

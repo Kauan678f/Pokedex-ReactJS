@@ -1,0 +1,26 @@
+.NavBar {
+    padding: 2rem 0;
+    margin-bottom: 2rem 0;
+    background-color: green;
+}
+
+.NavBar .Container {
+    display: flex;
+    width: 90%;
+    margin: 0 auto;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.NavBar .Container .h1Link {
+    font-size: 2rem;
+}
+
+.NavBar .Container input {
+    width: 20rem;
+    height: 3rem;
+    /* border: 1px solid black; */
+    border-radius: 5px;
+    font-size: 1.6rem;
+    padding-left: 0.5rem;
+}
